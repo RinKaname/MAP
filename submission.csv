@@ -1,4 +1,4 @@
 row_id,Category:Misconception
-36696,True_Correct:NA True_Neither:NA False_Neither:NA
-36697,False_Misconception:Incomplete False_Neither:NA True_Correct:NA
-36698,True_Neither:NA True_Correct:NA False_Neither:NA
+36696,False_Misconception:Base_rate False_Misconception:Inverse_operation False_Misconception:Irrelevant
+36697,False_Correct:NA False_Misconception:Division False_Misconception:Firstterm
+36698,True_Misconception:Whole_numbers_larger True_Misconception:Longer_is_bigger False_Misconception:Wrong_Operation
